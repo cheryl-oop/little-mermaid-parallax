@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "YourFont";
+  src:
+    url("/fonts/N27-Regular.otf") format("otf"),
+    url("/fonts/N27-Bold.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: #000000;
+  color: white;
+  font-family: "N27-Regular", sans-serif;
+  background-image: url("/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 1rem;
+}

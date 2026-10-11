@@ -1,0 +1,23 @@
+.select {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  color: rgb(1, 1, 1);
+  font-size: 0.9rem;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  padding-right: 2.5rem;
+}
+
+.select option {
+  background-color: #1d1d1b;
+  color: white;
+}
+
+.select:focus {
+  border-color: rgba(255, 255, 255, 0.5);
+}

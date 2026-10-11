@@ -1,0 +1,79 @@
+[
+  {
+    "id": "little-mermaid",
+    "name": "The Little Mermaid",
+    "student": "Cheryl Aitchedji",
+    "author": "Hans  Christian Andersen",
+    "genre": ["fantasie", "drama"],
+    "description": "De Kleine Zeemeermin vertelt het verhaal van een jonge zeemeermin die droomt van de mensenwereld boven de zee. Wanneer ze tijdens een zware storm een prins redt, begint een magisch avontuur vol liefde, opoffering en geheimen.",
+    "url": "https://ehb-mct.github.io/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/littleMermaidPage",
+    "thumbnail": "making-of-banner.png",
+    "createdAt": "16-05-2026"
+  },
+  {
+    "id": "mulan",
+    "name": "Mulan",
+    "student": "Olivia Zonnedda",
+    "author": "Chinees volks verhaal",
+    "genre": ["fantasie", "avontuur"],
+    "description": "Een jonge vrouw verkleedt zich als man om haar vader te vervangen in het keizerlijke leger.",
+    "url": "https://ehb-mct.github.io/mulan_Olivia_Zonnedda/#/startPage",
+    "thumbnail": "thumbnails/mulan-thumbnail.jpg",
+    "createdAt": "17-05-2026"
+  },
+  {
+    "id": "repelsteeltje",
+    "name": "Repelsteeltje",
+    "student": "Joachim Gautama",
+    "author": "Mademoiselle L'Héritier/Grimm",
+    "genre": ["fantasie"],
+    "description": "A miller boasts that his daughter can spin straw into gold so often that the news reaches the king’s ears. The king, greedy and curious, calls for the girl, locks her up in a tower room filled with straw and a spinning wheel, and demands she spin the straw into gold by morning or he will have her killed.",
+    "url": "https://ehb-mct.github.io/frontEnd-sprookje-JoachimGautama/fairytale",
+    "thumbnail": "thumbnails/repel-thumbnail.jpg",
+    "createdAt": "17-05-2026"
+  },
+  {
+    "id": "hansEnGrietje",
+    "name": "Hans en Grietje",
+    "student": "Evelien Voogt",
+    "author": "Gebroeders Grimm",
+    "genre": ["fantasie", "avontuur"],
+    "description": "Hans en Grietje worden door hun vader en stiefmoeder achtergelaten in het bos. Dankzij witte steentjes vinden ze eerst nog de weg terug naar huis, maar later raken ze echt verdwaald. Tijdens hun zoektocht ontdekken ze een snoephuisje waar een heks woont. Met slimheid en moed weten Hans en Grietje uiteindelijk te ontsnappen en keren ze terug naar huis.",
+    "url": "https://ehb-mct.github.io/fe2526-sprookje-EvelienVoogt/story",
+    "thumbnail": "thumbnails/hg-thumbnail.jpeg",
+    "createdAt": "17-05-2026"
+  },
+  {
+    "id": "Baba yaga",
+    "name": "Baba yaga",
+    "student": "Damian Arszagi",
+    "author": "Unknown",
+    "genre": ["fantasie", "horror"],
+    "description": "Baba Yaga Story",
+    "url": "https://ehb-mct.github.io/fe2526-sprookje-DamianArszagiVelHarszagi/sprookje",
+    "thumbnail": "thumbnails/placeholder.png",
+    "createdAt": "18-05-2026"
+  },
+  {
+    "id": "De Sneeuwkoningin",
+    "name": "De Sneeuwkoningin",
+    "student": "Safouan Kerkich",
+    "author": "Hans  Christian Andersen",
+    "genre": ["fantasie"],
+    "description": "De Sneeuwkoningin is een sprookje van Hans Christian Andersen over een meisje genaamd Gerda die op zoek gaat naar haar beste vriend Kai. Kai wordt ontvoerd door de ijskoude Sneeuwkoningin nadat een stukje van een magische, boosaardige spiegel in zijn oog en hart terechtkwam, waardoor hij koud en gevoelloos werd. Gerda trekt op avontuur door gevaarlijke gebieden, ontmoet vreemde figuren, en bereikt uiteindelijk het ijspaleis van de Sneeuwkoningin. Haar warme tranen van liefde smelten het ijs in Kai's hart, en samen keren ze terug naar huis.",
+    "url": "https://ehb-mct.github.io/fe2526-sprookje-SafouanKerkich/",
+    "thumbnail": "thumbnails/snow.jpg",
+    "createdAt": "18-05-2026"
+  },
+  {
+    "id": "roodkapje",
+    "name": "Roodkapje",
+    "student": "Hamza El Aisati",
+    "author": "Gebroeders Grimm",
+    "genre": ["fantasie", "horror"],
+    "description": "Roodkapje",
+    "url": "https://ehb-mct.github.io/front-end-sprookje-Raicus/",
+    "thumbnail": "thumbnails/placeholder.png",
+    "createdAt": "18-05-2026"
+  }
+]

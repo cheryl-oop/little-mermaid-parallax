@@ -1,0 +1,106 @@
+.banner {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+}
+
+.infoCard {
+  position: sticky;
+  top: 2rem;
+  background-color: #fdfdff;
+  border-radius: 15px;
+  color: #1d1d1b;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  height: fit-content;
+}
+
+.infoCard h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.infoCard p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.label {
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.genre {
+  background-color: rgba(203, 203, 203, 0.8);
+  color: #1d1d1b;
+  border-radius: 20px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.8rem;
+  margin-top: 0.8rem;
+}
+
+.visitButton {
+  display: block;
+  text-align: center;
+  padding: 0.75rem;
+  background-color: #1d1d1b;
+  color: #fdfdff;
+  text-decoration: none;
+  border-radius: 20px;
+  border-color: #fdfdff;
+  margin-top: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.visitButton:hover {
+  background-color: rgba(203, 203, 203, 0.8);
+  color: #000;
+}
+
+.description h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.descriptionp {
+  color: rgba(135, 135, 135, 0.8);
+}
+
+.description {
+  background-color: #fdfdff;
+  color: #1d1d1b;
+  padding: 1.5rem;
+  border-radius: 15px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .content {
+    grid-template-columns: 1fr;
+  }
+
+  .infoCard {
+    position: static;
+  }
+
+  .banner {
+    height: 250px;
+  }
+}
