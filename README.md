@@ -1,11 +1,16 @@
 # And They Lived Happily Ever After 🧜‍♀️
 
-This project is an interactive storytelling website inspired by the fairytale of The Little Mermaid by Hans  Christian Andersen.  
-The website combines parallax scrolling, animations, and custom-made assets to bring the story to life in a more immersive and visual way.
+A school project built during my Multimedia and Creative Technologies studies. It's an interactive storytelling website inspired by Hans Christian Andersen's fairytale The Little Mermaid, bringing the story to life through parallax scrolling, animations, and custom-made assets to create a more immersive and visual experience.
 
-Alongside the story website, this project also contains a portal page where all student projects from the And They Lived Happily Ever After assignment are collected and showcased.
-#### Website url: https://ehb-mct.github.io/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/
-#### The Little Mermaid parallax page: https://ehb-mct.github.io/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/littleMermaidPage
+The project also includes a portal page that gathers and showcases all student projects from the And They Lived Happily Ever After assignment.
+#### Website url: [Portal Page](https://ehb-mct.github.io/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/)
+#### The Little Mermaid: [Parallax Page](https://ehb-mct.github.io/FrontEnd-Little_Mermaid-Cheryl_Aitchedji/littleMermaidPage)
+
+## Tech Stack
+
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Build Tool:** Vite
+- **Deployment:** GitHub Pages
 
 ## Sources 🗃️
 ### Documentations
